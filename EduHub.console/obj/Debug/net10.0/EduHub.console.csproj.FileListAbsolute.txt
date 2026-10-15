@@ -1,0 +1,14 @@
+C:\Users\Trong Tinh\OneDrive\Desktop\EduHub.console\bin\Debug\net10.0\EduHub.console.exe
+C:\Users\Trong Tinh\OneDrive\Desktop\EduHub.console\bin\Debug\net10.0\EduHub.console.deps.json
+C:\Users\Trong Tinh\OneDrive\Desktop\EduHub.console\bin\Debug\net10.0\EduHub.console.runtimeconfig.json
+C:\Users\Trong Tinh\OneDrive\Desktop\EduHub.console\bin\Debug\net10.0\EduHub.console.dll
+C:\Users\Trong Tinh\OneDrive\Desktop\EduHub.console\bin\Debug\net10.0\EduHub.console.pdb
+C:\Users\Trong Tinh\OneDrive\Desktop\EduHub.console\obj\Debug\net10.0\EduHub.console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trong Tinh\OneDrive\Desktop\EduHub.console\obj\Debug\net10.0\EduHub.console.AssemblyInfoInputs.cache
+C:\Users\Trong Tinh\OneDrive\Desktop\EduHub.console\obj\Debug\net10.0\EduHub.console.AssemblyInfo.cs
+C:\Users\Trong Tinh\OneDrive\Desktop\EduHub.console\obj\Debug\net10.0\EduHub.console.csproj.CoreCompileInputs.cache
+C:\Users\Trong Tinh\OneDrive\Desktop\EduHub.console\obj\Debug\net10.0\EduHub.console.dll
+C:\Users\Trong Tinh\OneDrive\Desktop\EduHub.console\obj\Debug\net10.0\refint\EduHub.console.dll
+C:\Users\Trong Tinh\OneDrive\Desktop\EduHub.console\obj\Debug\net10.0\EduHub.console.pdb
+C:\Users\Trong Tinh\OneDrive\Desktop\EduHub.console\obj\Debug\net10.0\EduHub.console.genruntimeconfig.cache
+C:\Users\Trong Tinh\OneDrive\Desktop\EduHub.console\obj\Debug\net10.0\ref\EduHub.console.dll
