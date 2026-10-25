@@ -11,7 +11,7 @@ public class ClubTests
         const string name = "Tech Club";
 
         // Act
-        var club = Club.Create(name, "Câu lạc bộ công nghệ");
+        var club = Club.Create(name, "Câu lạc bộ Tiếng Anh");
 
         // Assert
         Assert.Equal(name, club.Name);
@@ -23,7 +23,7 @@ public class ClubTests
     [InlineData("   ")]
     public void Create_WithBlankName_ThrowsArgumentException(string name)
     {
-        // Arrange (tên rỗng hoặc toàn khoảng trắng đã nằm ở tham số)
+        // Arrange (tên rỗng hoặc toàn khoảng trắng đã nằm ở tham số).
 
         // Act
         var act = () => Club.Create(name, "mô tả");
